@@ -1,7 +1,7 @@
 import streamlit as st
 import engine
 
-st.title("Recap Repheasing")
+st.title("Recap Rephrasing")
 # st.text("please input the text you want to recap ")
 # st.chat_input()
 
